@@ -1,4 +1,4 @@
-### C++ - Module 01
+## C++ - Module 01
 ## Overview
 This repository contains exercises from Module 01 of the C++ modules at 42. The exercises focus on memory allocation, pointers to members, references, and the switch statement.
 
